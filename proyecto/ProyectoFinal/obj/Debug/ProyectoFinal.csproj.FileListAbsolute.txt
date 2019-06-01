@@ -1,0 +1,17 @@
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.MainForm.resources
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.UI.Registros.RegistroUsuario.resources
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\EntityFramework.dll
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\EntityFramework.xml
+C:\Users\Adm\source\repos\ProyectoFinal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CopyComplete
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Adm\source\repos\ProyectoFinal\obj\Debug\ProyectoFinal.UI.Registros.rCargos.resources
